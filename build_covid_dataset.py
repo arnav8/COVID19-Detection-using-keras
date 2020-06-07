@@ -1,4 +1,4 @@
-# USAGE
+# run with command line arguments
 # python build_covid_dataset.py --covid covid-chestxray-dataset --output dataset/covid
 
 # import the necessary packages
